@@ -1,93 +1,78 @@
-# Transform/transform.py
+import pandas as pd
+from typing import List, Dict
 
-def transform_all_datasets(raw_data):
-    """
-    raw_data: dict (key -> list of API “record” objects)
-    Returns: dict (key -> list of cleaned dicts with only needed fields)
-    """
-    cleaned = {}
-
-    for key, records in raw_data.items():
-        out = []
-        for rec in records:
-            f = rec.get("fields", {})
-            row = {"recordid": rec.get("recordid")}
-
-            if key == "panels":
-                # Fields: arrondissement, adresse, format, gratuit, type, geo_point_2d, geo_shape
-                row["arrondissement"] = f.get("arrondissement")
-                row["adresse"]       = f.get("adresse")
-                row["format"]        = f.get("format")
-                row["gratuit"]       = f.get("gratuit")
-                row["type"]          = f.get("type")
-                if "geo_point_2d" in f:
-                    row["lat"] = f["geo_point_2d"][0]
-                    row["lon"] = f["geo_point_2d"][1]
-                if "geo_shape" in f:
-                    row["geo_shape"] = f["geo_shape"]
-
-            elif key == "bike_counters":
-                # Fields: id_compteur, nom_compteur, id_site, nom_site, comptage,
-                #         date, heure, date_install, photo_lien, geo_point_2d, geo_shape
-                row["id_compteur"]   = f.get("id_compteur")
-                row["nom_compteur"]  = f.get("nom_compteur")
-                row["id_site"]       = f.get("id_site")
-                row["nom_site"]      = f.get("nom_site")
-                row["comptage"]      = f.get("comptage")
-                row["date"]          = f.get("date")
-                row["heure"]         = f.get("heure")
-                row["date_install"]  = f.get("date_install")
-                row["photo_lien"]    = f.get("photo_lien")
-                if "geo_point_2d" in f:
-                    row["lat"] = f["geo_point_2d"][0]
-                    row["lon"] = f["geo_point_2d"][1]
-                if "geo_shape" in f:
-                    row["geo_shape"] = f["geo_shape"]
-
-            elif key == "commerces":
-                # Fields: nom_du_commerce, adresse, type_de_distribution, horaires,
-                #         contact, geo_point_2d, geo_shape
-                row["nom_du_commerce"]      = f.get("nom_du_commerce")
-                row["adresse"]              = f.get("adresse")
-                row["type_de_distribution"] = f.get("type_de_distribution")
-                row["horaires"]             = f.get("horaires")
-                row["contact"]              = f.get("contact")
-                if "geo_point_2d" in f:
-                    row["lat"] = f["geo_point_2d"][0]
-                    row["lon"] = f["geo_point_2d"][1]
-                if "geo_shape" in f:
-                    row["geo_shape"] = f["geo_shape"]
-
-            elif key == "events":
-                # Fields: title, description, date_start, date_end, tags, placename,
-                #         address, lat_lon, price, url, geo_point_2d (sometimes)
-                row["title"]       = f.get("title")
-                row["description"] = f.get("description")
-                row["date_start"]  = f.get("date_start")
-                row["date_end"]    = f.get("date_end")
-                row["tags"]        = f.get("tags")
-                row["placename"]   = f.get("placename")
-                row["address"]     = f.get("address")
-                row["price"]       = f.get("price")
-                row["url"]         = f.get("url")
-                if "lat_lon" in f:
-                    coords = f["lat_lon"]
-                    row["lat"] = coords[0]
-                    row["lon"] = coords[1]
-                elif "geo_point_2d" in f:
-                    row["lat"] = f["geo_point_2d"][0]
-                    row["lon"] = f["geo_point_2d"][1]
-
-            elif key == "zti":
-                # Fields: nom_zone, type_zone, zone_geom
-                row["nom_zone"] = f.get("nom_zone")
-                row["type_zone"] = f.get("type_zone")
-                if "zone_geom" in f:
-                    row["zone_geom"] = f["zone_geom"]
-
-            out.append(row)
-
-        print(f"[Transform] Cleaned {len(out)} records for '{key}'")
-        cleaned[key] = out
-
-    return cleaned
+def transform_paris_data(raw_data: Dict[str, List[Dict]]) -> Dict[str, pd.DataFrame]:
+    """Transform raw data into clean DataFrames"""
+    print("\n🔧 STARTING TRANSFORMATION...")
+    
+    if not raw_data:
+        print("❌ No raw data to transform.")
+        return {}
+    
+    transformed_data = {}
+    
+    # Transform Pedestrian Zones
+    if 'pedestrian_zones' in raw_data:
+        print("🚶 Transforming pedestrian zones...")
+        zones_data = []
+        for record in raw_data['pedestrian_zones']:
+            zone_data = {
+                'zone_name': record.get('nom_de_la_zone', ''),
+                'arrondissement': record.get('arrondissement', ''),
+                'date_partition_bovp': record.get('date_partition_bovp', ''),
+                'geometry': record.get('geometry', {})
+            }
+            zones_data.append(zone_data)
+        
+        transformed_data['pedestrian_zones'] = pd.DataFrame(zones_data)
+        print(f"   ✅ Transformed {len(zones_data)} pedestrian zones")
+    
+    # Transform Bike Counters
+    if 'bike_counters' in raw_data:
+        print("🚴 Transforming bike counters...")
+        counters_data = []
+        for record in raw_data['bike_counters']:
+            counter_data = {
+                'counter_name': record.get('nom_du_site_de_comptage', ''),
+                'installation_date': record.get('date_d_installation_du_site_de_comptage', ''),
+                'count_datetime': record.get('date_et_heure_de_comptage', ''),
+                'hourly_count': record.get('comptage_horaire', 0),
+                'coordinates': record.get('coordonnees_geographiques', {}),
+                'month_year': record.get('mois_annee_comptage', '')
+            }
+            counters_data.append(counter_data)
+        
+        df_counters = pd.DataFrame(counters_data)
+        # Convert datetime columns
+        if 'count_datetime' in df_counters.columns:
+            df_counters['count_datetime'] = pd.to_datetime(df_counters['count_datetime'], errors='coerce')
+        if 'installation_date' in df_counters.columns:
+            df_counters['installation_date'] = pd.to_datetime(df_counters['installation_date'], errors='coerce')
+        
+        # Extract arrondissement from counter name
+        df_counters['arrondissement'] = df_counters['counter_name'].str.extract(r'(\d{2})', expand=False)
+        
+        transformed_data['bike_counters'] = df_counters
+        print(f"   ✅ Transformed {len(counters_data)} bike counter records")
+    
+    # Transform Advertising Panels
+    if 'advertising_panels' in raw_data:
+        print("📢 Transforming advertising panels...")
+        panels_data = []
+        for record in raw_data['advertising_panels']:
+            panel_data = {
+                'location': record.get('localisation_des_panneaux_d_affichage', ''),
+                'precision': record.get('precision', ''),
+                'arrondissement': record.get('arrondissement', ''),
+                'format_1m2': record.get('format_1m2', 0),
+                'format_2m2': record.get('format_2m2', 0),
+                'coordinates': record.get('coordonnees', {}),
+                'geometry': record.get('geometry', {})
+            }
+            panels_data.append(panel_data)
+        
+        transformed_data['advertising_panels'] = pd.DataFrame(panels_data)
+        print(f"   ✅ Transformed {len(panels_data)} advertising panels")
+    
+    print(f"\n🎉 TRANSFORMATION COMPLETE! Processed {len(transformed_data)} datasets")
+    return transformed_data
