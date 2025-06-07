@@ -1,0 +1,922 @@
+latitude,longitude,location_type,arrondissement,commercial_score,format_1m2,format_2m2,traffic_count,zone_name,data_source
+48.848934,2.331602,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"42, rue Madame",panels
+48.879105,2.348291,Civic Panel,75009.0,1.75,0.0,1.0,0,"31, rue Pierre Semard",panels
+48.861114,2.369434,Civic Panel,75011.0,5.5,0.0,1.0,0,"24, rue Saint Sébastien",panels
+48.830516,2.319421,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"132, rue d Alésia",panels
+48.831051,2.305727,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"4-6, rue du Bessin",panels
+48.894694,2.313008,Civic Panel,75017.0,4.5,0.0,1.0,0,"6, avenue de la porte de Clichy",panels
+48.884999,2.344249,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"2, rue Ronsard",panels
+48.863455,2.373882,Civic Panel,75011.0,5.5,0.0,1.0,0,"1, rue Pihet",panels
+48.894071,2.365278,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"35, rue de l Evangile",panels
+48.84134,2.349685,Civic Panel,75005.0,2.75,1.0,0.0,0,"97, rue Mouffetard",panels
+48.845747,2.323705,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"6, rue Littré",panels
+48.819702,2.365939,Civic Panel,75013.0,6.5,0.0,1.0,0,rue Lachelier,panels
+48.83154,2.34649,Civic Panel,75013.0,6.5,0.0,1.0,0,"13, rue Vulpian",panels
+48.877388,2.403386,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"59/59bis, rue de Romainville",panels
+48.841557,2.351354,Civic Panel,75005.0,2.75,1.0,0.0,0,"3, rue de l'Epée de Bois",panels
+48.841682,2.307794,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"15, rue des Volontaires",panels
+48.882991,2.392785,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"32-34, rue Alsace Lorraine",panels
+48.825938,2.30741,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"34-54, avenue Marc Sangnier",panels
+48.88998,2.397958,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,Avenue de la Porte de Pantin,panels
+48.840883,2.328593,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,10 rue Huyghens,panels
+48.875254,2.280587,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"58-60, rue de l Amiral Bruix",panels
+48.873382,2.34045,Civic Panel,75009.0,1.75,0.0,1.0,0,"11, rue Drouot",panels
+48.844134,2.259622,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"58, rue Erlanger",panels
+48.887761,2.370231,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"41, rue de Tanger",panels
+48.872432,2.380281,Civic Panel,75020.0,8.75,1.0,0.0,0,"38, rue de tourtille",panels
+48.883223,2.364032,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,"48, rue du Chateau Landon",panels
+48.894902,2.374613,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"école élémentaire : 84, rue Curial",panels
+48.864014,2.391763,Civic Panel,75020.0,8.75,1.0,0.0,0,"29, avenue Gambetta",panels
+48.869824,2.410873,Civic Panel,75020.0,8.75,0.0,1.0,0,"36, rue le Vau",panels
+48.847852,2.328112,Civic Panel,75006.0,3.0091989242548376,0.0,1.0,0,"85, boulevard Raspail",panels
+48.827862,2.332862,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"14, rue d Alésia",panels
+48.853272,2.341287,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"39, rue Saint-André des Arts",panels
+48.855971,2.396469,Civic Panel,75020.0,8.75,0.0,1.0,0,"54, rue Planchat",panels
+48.838878,2.26544,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"162, boulevard Murat",panels
+48.855876,2.379842,Civic Panel,75011.0,5.5,0.0,1.0,0,"15, Cour Debille",panels
+48.874919,2.391482,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"345-347, rue de Belleville",panels
+48.87328,2.393873,Civic Panel,75020.0,8.75,0.0,1.0,0,"28, rue Olivier Métra",panels
+48.871358,2.409702,Civic Panel,75020.0,8.75,1.0,0.0,0,"8, rue  Pierre Foncin",panels
+48.849521,2.286048,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"50, rue Emeriau",panels
+48.898533,2.342267,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"7, rue Fernand Laborie",panels
+48.862744,2.346663,Civic Panel,75001.0,3.367634075065204,1.0,0.0,0,"101, rue Rambuteau",panels
+48.84438,2.349986,Civic Panel,75005.0,2.75,1.0,0.0,0,"50, rue Lacépède",panels
+48.847696,2.376957,Civic Panel,75012.0,5.0,1.0,0.0,0,100 rue de Charenton -,panels
+48.874978,2.36381,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,"118, quai de Jemmapes",panels
+48.846838,2.258228,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"10, boulevard Murat",panels
+48.850615,2.270749,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"13-15, rue Jean de la Fontaine",panels
+48.887438,2.311703,Civic Panel,75017.0,4.5,0.0,1.0,0,"101, rue de Saussure",panels
+48.842381,2.263429,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"20, rue de Musset",panels
+48.882603,2.377818,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"37, rue Armand Carrel",panels
+48.85645,2.40025,Civic Panel,75020.0,8.75,1.0,0.0,0,"81-91, Rue de la Réunion",panels
+48.874893,2.370246,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,angle Alibert / Claude Vellefaux,panels
+48.826924,2.344612,Civic Panel,75013.0,6.5,1.0,0.0,0,"16, rue Wurtz",panels
+48.860315,2.382034,Civic Panel,75011.0,5.5,0.0,1.0,0,"22, rue Saint Maur",panels
+48.872242,2.371675,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,"200, rue Saint Maur",panels
+48.843372,2.39699,Civic Panel,75012.0,5.0,1.0,0.0,0,47 rue de Picpus,panels
+48.823693,2.317013,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"18, avenue de la porte de Chatillon",panels
+48.833639,2.395135,Civic Panel,75012.0,5.0,0.0,1.0,0,"315, rue de Charenton",panels
+48.824915,2.355973,Civic Panel,75013.0,6.5,0.0,1.0,0,"12, rue du Docteur Laurent",panels
+48.850202,2.270562,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"3, avenue Boudon / angle rue du Père Brottier",panels
+48.885177,2.367735,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"13, rue de Tanger",panels
+48.851211,2.31916,Civic Panel,75007.0,1.5,0.0,1.0,0,"48, rue Vaneau",panels
+48.837242,2.403541,Civic Panel,75012.0,5.0,1.0,0.0,0,83 avenue du Général Michel Bizot,panels
+48.834272,2.387186,Civic Panel,75012.0,5.0,1.0,0.0,0,51 rue François Truffaut,panels
+48.889534,2.292691,Civic Panel,75017.0,4.5,0.0,1.0,0,"229, rue de Courcelles",panels
+48.870887,2.35392,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,6 rue de Metz,panels
+48.843494,2.412916,Civic Panel,75012.0,5.0,0.0,1.0,0,"26, boulevard Carnot",panels
+48.837481,2.394145,Civic Panel,75012.0,5.0,0.0,1.0,0,30 Rue de la Breche aux loups,panels
+48.885256,2.314919,Civic Panel,75017.0,4.5,0.0,1.0,0,"47, rue de Saussure",panels
+48.856139,2.380504,Civic Panel,75011.0,5.5,0.0,1.0,0,"31, rue Godeffroy Cavaignac",panels
+48.883796,2.309226,Civic Panel,75017.0,4.5,0.0,1.0,0,112 Boulevards des Maréchaux,panels
+48.820839,2.368247,Civic Panel,75013.0,6.5,0.0,1.0,0,"81, boulevard Massena",panels
+48.874325,2.379553,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"15-17, rue Rampal",panels
+48.862694,2.386531,Civic Panel,75011.0,5.5,0.0,1.0,0,"49, boulevard Menilmontant",panels
+48.862048,2.356976,Civic Panel,75003.0,0.5,1.0,0.0,0,95 rue du temple,panels
+48.841801,2.411745,Civic Panel,75012.0,5.0,0.0,1.0,0,"6, avenue Maurice Ravel",panels
+48.821674,2.326294,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"7, rue Paul Appell",panels
+48.890833,2.335818,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"8, square Lamarck",panels
+48.885302,2.379333,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"87, avenue Jean Jaurès",panels
+48.894664,2.318374,Civic Panel,75017.0,4.5,0.0,1.0,0,"26, rue Boulay",panels
+48.891616,2.344508,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"29, rue Hermel",panels
+48.880356,2.373876,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"8, rue Sadi Lecointe",panels
+48.851526,2.357251,Civic Panel,75004.0,23.747073309914683,0.0,1.0,0,"21, rue Saint Louis en l'Isle",panels
+48.85643,2.410685,Civic Panel,75020.0,8.75,0.0,1.0,0,"2, rue Eugène Reisz",panels
+48.827774,2.35322,Civic Panel,75013.0,6.5,0.0,1.0,0,"40, rue Vandrezane",panels
+48.899663,2.352423,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,15-33 Avenue de la Porte des Poissonniers,panels
+48.886727,2.399121,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"5, rue Noyer Durand",panels
+48.829979,2.316987,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"23, rue Jacquier",panels
+48.895048,2.340169,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"160-162, rue Championnet",panels
+48.863243,2.354553,Civic Panel,75003.0,0.5,1.0,0.0,0,64 rue de Beaubourg,panels
+48.834878,2.396294,Civic Panel,75012.0,5.0,0.0,1.0,0,"40, rue des Meuniers",panels
+48.837607,2.320578,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"18, rue Jean Zay",panels
+48.882984,2.334409,Civic Panel,75009.0,1.75,0.0,1.0,0,"130, boulevard de Clichy",panels
+48.854709,2.376653,Civic Panel,75011.0,5.5,0.0,1.0,0,"3, passage Bullourde",panels
+48.842595,2.294888,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"103, rue de la Croix Nivert",panels
+48.855395,2.291447,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"11, rue Jean Rey",panels
+48.835399,2.315742,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"82, rue Pernetty",panels
+48.885396,2.353862,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,9 rue Polonceau,panels
+48.88457,2.390867,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,53 allée Darius Milhaud,panels
+48.869368,2.394918,Civic Panel,75020.0,8.75,0.0,1.0,0,"293, rue des Pyrénées",panels
+48.851602,2.383955,Civic Panel,75011.0,5.5,0.0,1.0,0,"18, rue Faidherbe",panels
+48.826626,2.300413,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"18, avenue de la prte Brancion",panels
+48.876172,2.38915,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"2, rue Féssart",panels
+48.854708,2.407777,Civic Panel,75020.0,8.75,0.0,1.0,0,"5, rue Mouraud",panels
+48.856693,2.355152,Civic Panel,75004.0,23.747073309914683,0.0,1.0,0,"25, rue de Rivoli",panels
+48.888084,2.33782,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,15 Rue Girardon,panels
+48.880396,2.389772,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,104-106 Rue Compans,panels
+48.864378,2.401004,Civic Panel,75020.0,8.75,1.0,0.0,0,"24, rue de la Cour des Noues",panels
+48.832161,2.399323,Civic Panel,75012.0,5.0,0.0,1.0,0,"68, boulevard Poniatowski",panels
+48.82773,2.327953,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"77, rue d Alésia",panels
+48.877519,2.385354,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"9, rue des Alouettes",panels
+48.892135,2.382858,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"7, rue Barbanègre",panels
+48.843156,2.307197,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"17-19, rue Blomet",panels
+48.871094,2.389959,Civic Panel,75020.0,8.75,1.0,0.0,0,"42, rue de la Mare",panels
+48.875389,2.406186,Civic Panel,75020.0,8.75,0.0,1.0,0,"148, avenue Gambetta",panels
+48.847557,2.346916,Civic Panel,75005.0,2.75,1.0,0.0,0,"11, rue Valette",panels
+48.896536,2.319314,Civic Panel,75017.0,4.5,0.0,1.0,0,"88, boulevard Bessière",panels
+48.827738,2.364285,Civic Panel,75013.0,6.5,0.0,1.0,0,"17, avenue Edison",panels
+48.890753,2.362625,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"2, rue de la Guadeloupe",panels
+48.876827,2.384217,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"36, rue Féssart",panels
+48.827428,2.352475,Civic Panel,75013.0,6.5,0.0,1.0,0,"5, place Paul Verlaine",panels
+48.893105,2.363213,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"5, place Hebert",panels
+48.852133,2.412878,Civic Panel,75020.0,8.75,0.0,1.0,0,"26, rue Maryse Hilz",panels
+48.877866,2.320526,Civic Panel,75008.0,1.5,0.0,1.0,0,"46/48, rue du Rocher",panels
+48.856591,2.393939,Civic Panel,75011.0,5.5,0.0,1.0,0,"115, boulevard Charonne",panels
+48.880565,2.290199,Civic Panel,75017.0,4.5,0.0,1.0,0,"15, rue Guersant",panels
+48.875505,2.376595,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"16, rue de l Atlas",panels
+48.850531,2.412835,Civic Panel,75020.0,8.75,0.0,1.0,0,"18, rue Maryse Hilsz",panels
+48.859896,2.342026,Civic Panel,75001.0,3.367634075065204,0.0,1.0,0,"19, rue de l'arbre sec",panels
+48.85878,2.305271,Civic Panel,75007.0,1.5,0.0,1.0,0,"4, rue Cler",panels
+48.871326,2.345109,Civic Panel,75009.0,1.75,0.0,1.0,0,"22, boulevard Poissonnière",panels
+48.896602,2.352861,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"142, rue des Poissonniers",panels
+48.847869,2.327529,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"112, rue de Rennes",panels
+48.878822,2.317688,Civic Panel,75008.0,1.5,0.0,1.0,0,"28, rue du Général Foy",panels
+48.877377,2.403219,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"45-59, rue de Romainville",panels
+48.86577,2.389248,Civic Panel,75020.0,8.75,0.0,1.0,0,square des Amandiers,panels
+48.849731,2.286149,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"30/40, rue Emeriau",panels
+48.890317,2.30087,Civic Panel,75017.0,4.5,0.0,1.0,0,"4-8, rue Brunetiere",panels
+48.835968,2.384587,Civic Panel,75012.0,5.0,0.0,1.0,0,"6, rue pommard",panels
+48.825781,2.375676,Civic Panel,75013.0,6.5,0.0,1.0,0,"5bis, rue Eugène Oudine",panels
+48.878594,2.394505,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"7-29, rue Eugénie Cotton",panels
+48.856892,2.383143,Civic Panel,75011.0,5.5,0.0,1.0,0,"4, rue Mercoeur",panels
+48.843121,2.388838,Civic Panel,75012.0,5.0,1.0,0.0,0,40 Jacques Hillairet,panels
+48.896619,2.327266,Civic Panel,75017.0,4.5,0.0,1.0,0,"22, rue Jean Leclaire",panels
+48.886176,2.358258,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"8, rue Jean Francois Lepine",panels
+48.899487,2.342365,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"12, rue René Binet",panels
+48.866319,2.392293,Civic Panel,75020.0,8.75,0.0,1.0,0,"15, rue Sorbier",panels
+48.856704,2.390985,Civic Panel,75011.0,5.5,0.0,1.0,0,"108, avenue Philippe Auguste",panels
+48.866346,2.393403,Civic Panel,75020.0,8.75,0.0,1.0,0,"25, rue de la Bidassoa",panels
+48.852838,2.38079,Civic Panel,75011.0,5.5,0.0,1.0,0,"33, rue Saint Bernard",panels
+48.839895,2.263832,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"185, avenue de Versailles",panels
+48.87009,2.402914,Civic Panel,75020.0,8.75,1.0,0.0,0,"153, avenue Gambetta",panels
+48.856862,2.411724,Civic Panel,75020.0,8.75,0.0,1.0,0,"36, rue des Docteurs Dejerine",panels
+48.848913,2.401828,Civic Panel,75020.0,8.75,0.0,1.0,0,"19, rue de Lagny",panels
+48.874437,2.362063,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,"Face au 8, rue des Recollets",panels
+48.848901,2.378282,Civic Panel,75012.0,5.0,1.0,0.0,0,Place d'Aligre,panels
+48.822231,2.351299,Civic Panel,75013.0,6.5,0.0,1.0,0,"8, rue Kuss",panels
+48.832453,2.323515,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"12, rue Severo",panels
+48.875444,2.407428,Civic Panel,75020.0,8.75,0.0,1.0,0,"163, boulevard Mortier",panels
+48.855933,2.407425,Civic Panel,75020.0,8.75,0.0,1.0,0,"91, rue des Orteaux",panels
+48.830739,2.36599,Civic Panel,75013.0,6.5,0.0,1.0,0,"58, rue de Clisson",panels
+48.853472,2.360729,Civic Panel,75004.0,23.747073309914683,1.0,0.0,0,"1-3, rue des Jardins Saint-Paul",panels
+48.8459,2.323206,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"87, rue de Vaugirard",panels
+48.898888,2.364393,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"56, boulevard Ney",panels
+48.883806,2.390199,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"40, rue Manin",panels
+48.839681,2.402816,Civic Panel,75012.0,5.0,0.0,1.0,0,"24, rue Louis Braille",panels
+48.832514,2.367048,Civic Panel,75013.0,6.5,0.0,1.0,0,"61, rue Dunois",panels
+48.837349,2.279298,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"146, avenue Félix Faure",panels
+48.886937,2.333966,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"62, rue Lepic",panels
+48.850003,2.400272,Civic Panel,75020.0,8.75,0.0,1.0,0,"9/11, rue de la Plaine",panels
+48.880396,2.389772,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"106, rue Compans",panels
+48.822585,2.36113,Civic Panel,75013.0,6.5,0.0,1.0,0,"13, rue Caillaux",panels
+48.882999,2.373478,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"70, rue Armand Carrel",panels
+48.853623,2.376853,Civic Panel,75011.0,5.5,0.0,1.0,0,"4, rue Keller",panels
+48.877519,2.385354,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"9, rue des Alouettes",panels
+48.887206,2.387708,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"156, avenue Jean Jaurès",panels
+48.858908,2.352294,Civic Panel,75004.0,23.747073309914683,0.0,1.0,0,"14, rue du renard",panels
+48.873349,2.318485,Civic Panel,75008.0,1.5,0.0,1.0,0,"16, rue de Roquepine",panels
+48.83056,2.368114,Civic Panel,75013.0,6.5,0.0,1.0,0,"32, place Jeanne d'Arc",panels
+48.870411,2.382195,Civic Panel,75020.0,8.75,1.0,0.0,0,"32, rue Pali Kao",panels
+48.868252,2.338158,Civic Panel,75002.0,0.5,0.0,1.0,0,"71, rue de Richelieu",panels
+48.851743,2.33594,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"12, rue Lobineau",panels
+48.880402,2.376535,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,20 rue Edouard Pailleron,panels
+48.856579,2.353831,Civic Panel,75004.0,23.747073309914683,0.0,1.0,0,"4, rue Lobau",panels
+48.842548,2.361878,Civic Panel,75005.0,2.75,1.0,0.0,0,"15 bis, rue Buffon",panels
+48.841614,2.348999,Civic Panel,75005.0,2.75,0.0,1.0,0,"1, rue Jean Calvin",panels
+48.828016,2.325898,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"93, rue d Alésia",panels
+48.833421,2.32257,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"55/61, rue Maurice Ripoche",panels
+48.853969,2.289652,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"11, boulevard de Grenelle",panels
+48.866988,2.271846,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"32, boulevard des Maréchaux",panels
+48.842585,2.349672,Civic Panel,75005.0,2.75,1.0,0.0,0,"74, rue Mouffetard",panels
+48.820451,2.364644,Civic Panel,75013.0,6.5,0.0,1.0,0,"4bis, avenue de Choisy",panels
+48.855983,2.273553,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"15, rue des Bauches",panels
+48.855158,2.405215,Civic Panel,75020.0,8.75,0.0,1.0,0,"99, rue des Pyrénées",panels
+48.834719,2.353257,Civic Panel,75013.0,6.5,0.0,1.0,0,"79, avenue des Gobelins",panels
+48.893086,2.385131,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"1, rue Rouvet",panels
+48.858889,2.299853,Civic Panel,75007.0,1.5,0.0,1.0,0,"1, rue du Général Camou",panels
+48.878822,2.317688,Civic Panel,75008.0,1.5,0.0,1.0,0,"28, rue du Général Foy",panels
+48.846348,2.40334,Civic Panel,75012.0,5.0,1.0,0.0,0,16 rue de Marsoulan,panels
+48.837122,2.402889,Civic Panel,75012.0,5.0,0.0,1.0,0,"253bis/253 ter, avenue Daumesnil",panels
+48.822744,2.377618,Civic Panel,75013.0,6.5,0.0,1.0,0,"1, avenue Boutroux",panels
+48.874518,2.389605,Civic Panel,75020.0,8.75,0.0,1.0,0,"4, rue Jourdain",panels
+48.839807,2.357481,Civic Panel,75005.0,2.75,1.0,0.0,0,"39 bis, rue Poliveau",panels
+48.824619,2.365472,Civic Panel,75013.0,6.5,0.0,1.0,0,"42, rue du Javelot",panels
+48.85828,2.299265,Civic Panel,75007.0,1.5,0.0,1.0,0,"37, avenue de la Bourdonnais",panels
+48.828027,2.29332,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"13, rue du Général Guillaumat",panels
+48.865292,2.344087,Civic Panel,75002.0,0.5,0.0,1.0,0,"3, rue de la  Jussienne",panels
+48.822195,2.331066,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"48, boulevard Jourdan",panels
+48.842523,2.263925,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"64, rue Chardon Lagache",panels
+48.864893,2.333822,Civic Panel,75001.0,3.367634075065204,0.0,1.0,0,"11, rue d Argenteuil",panels
+48.870282,2.350113,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,"26, boulevard Bonne Nouvelle",panels
+48.853745,2.393242,Civic Panel,75011.0,5.5,0.0,1.0,0,"39, rue Alexandre Dumas",panels
+48.859847,2.38589,Civic Panel,75011.0,5.5,0.0,1.0,0,"14, rue Merlin",panels
+48.855469,2.291002,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"9, rue Jean Rey",panels
+48.89502,2.363866,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"19, rue Tristant Tzara",panels
+48.894562,2.351348,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"12, rue des Amiraux",panels
+48.842291,2.34061,Civic Panel,75005.0,2.75,0.0,1.0,0,"10, rue Pierre Nicole",panels
+48.882984,2.334409,Civic Panel,75009.0,1.75,0.0,1.0,0,"130, boulevard de Clichy",panels
+48.867344,2.374589,Civic Panel,75011.0,5.5,0.0,1.0,0,"39, rue des Trois Bornes",panels
+48.842109,2.41293,Civic Panel,75012.0,5.0,0.0,1.0,0,"34, boulevard Carnot",panels
+48.83755,2.2787,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"97, rue Ballard",panels
+48.880446,2.289361,Civic Panel,75017.0,4.5,0.0,1.0,0,"221, boulevard Pereire",panels
+48.841234,2.347531,Civic Panel,75005.0,2.75,0.0,1.0,0,"10, rue Vauquelin",panels
+48.853577,2.339267,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"60, rue Saint andré des Arts",panels
+48.869561,2.360338,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,"15, rue Lancry",panels
+48.836374,2.373575,Civic Panel,75013.0,6.5,1.0,0.0,0,"8 / 10, rue Balanchine",panels
+48.843104,2.316507,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"20, rue Falguieres",panels
+48.850917,2.406499,Civic Panel,75020.0,8.75,0.0,1.0,0,"40, rue des Pyrénées",panels
+48.864574,2.26978,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"60, boulevard Lannes",panels
+48.870282,2.350113,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,"26, boulevard Bonne Nouvelle",panels
+48.886,2.37918,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"9, rue Tandou",panels
+48.858623,2.300202,Civic Panel,75007.0,1.5,0.0,1.0,0,"28, avenue Rapp",panels
+48.86105,2.384269,Civic Panel,75011.0,5.5,0.0,1.0,0,"7, rue Duranti",panels
+48.873377,2.397987,Civic Panel,75020.0,8.75,1.0,0.0,0,"166, rue Pelleport",panels
+48.880462,2.296597,Civic Panel,75017.0,4.5,0.0,1.0,0,"12, rue Foucroy",panels
+48.891854,2.330619,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"31, rue Joseph de Maistre",panels
+48.885108,2.37628,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"12-16, rue de la Moselle",panels
+48.852692,2.339941,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"7, rue du Jardinet",panels
+48.870885,2.377182,Civic Panel,75011.0,5.5,0.0,1.0,0,"4bis, rue de la Présentation",panels
+48.873093,2.389293,Civic Panel,75020.0,8.75,0.0,1.0,0,84 Rue de la Mare,panels
+48.833497,2.361549,Civic Panel,75013.0,6.5,1.0,0.0,0,Place Pinel,panels
+48.855128,2.333105,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"12, rue Saint-Benoît",panels
+48.848922,2.339836,Civic Panel,75006.0,3.0091989242548376,1.0,0.0,0,"9, rue de Vaugirard",panels
+48.844704,2.380336,Civic Panel,75012.0,5.0,0.0,1.0,0,"70, avenue Daumesnil",panels
+48.866162,2.392419,Civic Panel,75020.0,8.75,0.0,1.0,0,"17, rue Sorbier",panels
+48.86769,2.4031700000000003,Civic Panel,75020.0,8.75,0.0,1.0,0,"7, rue Bretonneau",panels
+48.853745,2.393242,Civic Panel,75011.0,5.5,0.0,1.0,0,"39, rue Alexandre Dumas",panels
+48.838886,2.332875,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"19, rue Boissonnade",panels
+48.855874,2.38245,Civic Panel,75011.0,5.5,0.0,1.0,0,"2, rue Japy",panels
+48.821395,2.375173,Civic Panel,75013.0,6.5,0.0,1.0,0,"9, rue Franc Nohain",panels
+48.889046,2.325925,Civic Panel,75017.0,4.5,0.0,1.0,0,"21/23, avenue de Saint Ouen",panels
+48.856603,2.401315,Civic Panel,75020.0,8.75,0.0,1.0,0,"38, rue des Orteaux",panels
+48.875864,2.307069,Civic Panel,75008.0,1.5,0.0,1.0,0,"15, rue de Monceau",panels
+48.85859,2.379116,Civic Panel,75011.0,5.5,0.0,1.0,0,"107, boulevard Voltaire",panels
+48.828093,2.366809,Civic Panel,75013.0,6.5,0.0,1.0,0,"6, rue Baptiste Renard",panels
+48.855128,2.333105,Civic Panel,75006.0,3.0091989242548376,0.0,1.0,0,"12, rue Saint Benoit",panels
+48.890553,2.304479,Civic Panel,75017.0,4.5,0.0,1.0,0,"76, boulevard Berthier",panels
+48.879105,2.348291,Civic Panel,75009.0,1.75,0.0,1.0,0,"31, rue Pierre Semard",panels
+48.836123,2.360667,Civic Panel,75013.0,6.5,0.0,1.0,0,"46, rue Jenner",panels
+48.825299,2.311657,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"14-18, avenue Georges Lafenestre",panels
+48.858981,2.31858,Civic Panel,75007.0,1.5,0.0,1.0,0,"27, rue Las Casés",panels
+48.834253,2.348657,Civic Panel,75013.0,6.5,0.0,1.0,0,"39, rue des Cordelières",panels
+48.892135,2.382858,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"7, rue Barbanègre",panels
+48.848586,2.352272,Civic Panel,75005.0,2.75,0.0,1.0,0,"27, rue de Poissy",panels
+48.885248,2.315958,Civic Panel,75017.0,4.5,0.0,1.0,0,"49, rue Legendre",panels
+48.88971,2.379576,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"9, rue Jomard",panels
+48.867739,2.388636,Civic Panel,75020.0,8.75,0.0,1.0,0,"109, rue des Amandiers",panels
+48.868105,2.32685,Civic Panel,75001.0,3.367634075065204,0.0,1.0,0,"28, rue Cambon",panels
+48.853665,2.363512,Civic Panel,75004.0,23.747073309914683,0.0,1.0,0,"5/7, rue Neuve Saint Pierre",panels
+48.87234,2.307394,Civic Panel,75008.0,1.5,0.0,1.0,0,"10, rue Paul Baudry",panels
+48.822875,2.362127,Civic Panel,75013.0,6.5,0.0,1.0,0,"3, rue des Caillaux",panels
+48.825299,2.311657,Civic Panel,75014.0,7.863044227314029,0.0,1.0,0,"20-24, avenue Georges Lafenestre",panels
+48.833817,2.294959,Civic Panel,75015.0,4.073888089991745,0.0,1.0,0,"66, rue Olivier de Serres",panels
+48.891898,2.33465,Civic Panel,75018.0,5.696806078326992,0.0,1.0,0,"1, rue Vauvenargues",panels
+48.871589,2.358068,Civic Panel,75010.0,2.892664068221247,0.0,1.0,0,"5, rue Pierre Bullet",panels
+48.843724,2.2549200000000003,Civic Panel,75016.0,3.4789356781958816,0.0,1.0,0,"26, avenue du Général Sarail",panels
+48.897262,2.32429,Civic Panel,75017.0,4.5,0.0,1.0,0,"11-13, rue Jacques Kellner",panels
+48.866818,2.399962,Civic Panel,75020.0,8.75,0.0,1.0,0,"103, avenue Gambetta",panels
+48.854201,2.392536,Civic Panel,75011.0,5.5,0.0,1.0,0,66/72 avenue Philippe Auguste,panels
+48.849445,2.377656,Civic Panel,75012.0,5.0,0.0,1.0,0,"6, rue de Cotte",panels
+48.871326,2.345109,Civic Panel,75009.0,1.75,0.0,1.0,0,"22, boulevard Poissonnière",panels
+48.829663,2.366395,Civic Panel,75013.0,6.5,0.0,1.0,0,"11, rue Lahire",panels
+48.891869,2.369341,Civic Panel,75019.0,9.379903128503239,0.0,1.0,0,"122-130, rue d Aubervilliers",panels
+48.837543,2.39417,Civic Panel,75012.0,5.0,1.0,0.0,0,20 rue de la Brèche aux loups,panels
+48.898947,2.324894,Civic Panel,75017.0,4.5,0.0,1.0,0,"28, rue andré Brechet",panels
+48.878088,2.290012,Civic Panel,75017.0,4.5,0.0,1.0,0,"16, rue du Colonel Moll",panels
+48.8527529704595,2.33390265725736,Pedestrian Zone,6,3.15,0.0,0.0,0,0,pedestrian_zones
+48.82915729548708,2.35342803330361,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.84036233007422,2.254336438096699,Pedestrian Zone,16,9.45,0.0,0.0,0,,pedestrian_zones
+48.89556132217111,2.364971975245022,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.87939200985997,2.39341189555222,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.89922128979352,2.337979113643242,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.838931331807096,2.3696159899185427,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Vivian Maier,pedestrian_zones
+48.85543249031189,2.2621999575778418,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.83044796638448,2.3784950396504683,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.8688205289782,2.3541965365884043,Pedestrian Zone,3,4.55,0.0,0.0,0,0,pedestrian_zones
+48.86485856601836,2.397298707663151,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,zone Père Lachaise,pedestrian_zones
+48.895524883013685,2.3474579998389893,Pedestrian Zone,18,17.5,0.0,0.0,0,Passage Championnet,pedestrian_zones
+48.87619953751982,2.326796406331153,Pedestrian Zone,8,2.8,0.0,0.0,0,0,pedestrian_zones
+48.823435404712455,2.363986346769542,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Charles Bertheau et Jean Dunand,pedestrian_zones
+48.859897068392826,2.2650730167291204,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.83259776215558,2.314480395235982,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.83914611128649,2.3807669012126738,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.83372776137496,2.3131101411345383,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.866831143741415,2.343926919070403,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,Montorgueil-Saint-Denis,pedestrian_zones
+48.8761269882769,2.362408120211231,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.86759806609335,2.4057816042940154,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.87838501565312,2.2919014985547657,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.86203002574339,2.28938137694724,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.8640301651791,2.350200794853392,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,,pedestrian_zones
+48.87233108788018,2.3781814045797534,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.886204433349455,2.3503940944203885,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Richomme,pedestrian_zones
+48.8495996481662,2.269721614831546,Pedestrian Zone,16,9.45,0.0,0.0,0,Rue du Père Brottier et avenue Boudon,pedestrian_zones
+48.8464489111362,2.3520198064903632,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue des Boulangers,pedestrian_zones
+48.83019978368005,2.3538265969692724,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue du Père Guérin,pedestrian_zones
+48.859724543854526,2.3408317428167096,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Place du Louvre,pedestrian_zones
+48.82436479185011,2.3633627280829885,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.832673886575016,2.3875339739929964,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Zac Bercy,pedestrian_zones
+48.869250921783696,2.3525537538844032,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,0,pedestrian_zones
+48.88370094230893,2.3436210338069223,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.85953261176494,2.3445644263530427,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Rue Boucher,pedestrian_zones
+48.87701611366081,2.3442386969989286,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,0,pedestrian_zones
+48.83878824959766,2.345921194795673,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,,pedestrian_zones
+48.8212889794973,2.344212771594512,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.86552626307076,2.3863891624734173,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.88433979731764,2.3901801288297917,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.85601284529744,2.3825562994656444,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.869273635498566,2.2719700579757016,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.84851620100737,2.394420661918291,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Place de la Nation,pedestrian_zones
+48.84563572314169,2.3704592841225733,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Rue Traversière,pedestrian_zones
+48.83859121614264,2.389551091797582,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.87691810739006,2.3895621217450973,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.89323824859863,2.3493675160067724,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue du Nord,pedestrian_zones
+48.88083206426291,2.2921185471297867,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.84251049193043,2.2751475560417136,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,Rue du Mont Aigoual,pedestrian_zones
+48.87730380536074,2.369760089530039,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.88760935909391,2.370385561668648,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.87885407983568,2.368900798122616,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,ZAC Granges aux Belles,pedestrian_zones
+48.8699226224194,2.290563735283992,Pedestrian Zone,16,9.45,0.0,0.0,0,,pedestrian_zones
+48.88048906741909,2.325389309992426,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,Rue de Moscou,pedestrian_zones
+48.85192004501265,2.236955914369024,Pedestrian Zone,16,9.45,0.0,0.0,0,Route de Sèvres à Neuilly,pedestrian_zones
+48.844051026691965,2.2844063233532514,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,Rue Lacordaire,pedestrian_zones
+48.831662963810224,2.3709949135537847,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,"Rue Pierre Gourdault, rue de Vimoutiers",pedestrian_zones
+48.85946353869003,2.2871842263072213,Pedestrian Zone,16,9.45,0.0,0.0,0,,pedestrian_zones
+48.85284398333909,2.3603693913230925,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Voie B/4 (village Saint-Paul),pedestrian_zones
+48.836837742565926,2.3733954216786763,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Jean Arp,pedestrian_zones
+48.85865856637229,2.343746795767126,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,,pedestrian_zones
+48.86634187389328,2.332959377523189,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Rue Saint Roch,pedestrian_zones
+48.8411404131278,2.3920901206231324,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Rue Paul Dukas,pedestrian_zones
+48.82673354172338,2.3538064570904527,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.88790109118349,2.3728744059956184,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.885666726443255,2.381904830796472,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.84169765931002,2.2790404847066013,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.88587843554048,2.3768260387524824,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.84556010601,2.3761210343312187,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Place Henri Frenay,pedestrian_zones
+48.86336511817502,2.373984358395367,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue Pihet,pedestrian_zones
+48.88370094230893,2.3436210338069223,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.84162223856892,2.2997971684091705,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.852875677458826,2.3916464232918897,Pedestrian Zone,11,10.85,0.0,0.0,0,Cité Voltaire,pedestrian_zones
+48.85112906095897,2.349517466877238,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.87126884051123,2.3832121991410715,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.83554513033754,2.316671377025708,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.85677801538712,2.398994588991965,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.84785586597053,2.3946284978230663,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Place de la Nation,pedestrian_zones
+48.85800998934872,2.308125145303936,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.840552297674726,2.3695290413121124,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.86700407225712,2.347358652938219,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,Montorgueil-Saint-Denis,pedestrian_zones
+48.844928971494575,2.349798177943339,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.88663197428608,2.335568255955992,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.89119052698877,2.3613279109125638,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.85108092799679,2.259400235639949,Pedestrian Zone,16,9.45,0.0,0.0,0,Avenue du Maréchal Lyautey,pedestrian_zones
+48.82478842567398,2.369850038385806,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.85186597424315,2.328007010905876,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.89505489264589,2.348377385615642,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.83227483813982,2.373331544024348,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Halle Freyssinet,pedestrian_zones
+48.87978314101147,2.34104143851791,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Louise-Emilie de la Tour d'Auvergne,pedestrian_zones
+48.82013145711639,2.3661746816580145,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.85136782832079,2.345693965380802,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,,pedestrian_zones
+48.88910493966549,2.3517485120987027,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue d'Oran,pedestrian_zones
+48.895374718104776,2.339793299581472,Pedestrian Zone,18,17.5,0.0,0.0,0,Impasse de la Grosse Bouteille,pedestrian_zones
+48.88205690430695,2.324568282316932,Pedestrian Zone,8,2.8,0.0,0.0,0,Rue de Florence,pedestrian_zones
+48.82739796464028,2.352195228164204,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Place Paul Verlaine,pedestrian_zones
+48.85848040211432,2.3534422208715213,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,,pedestrian_zones
+48.83169416656044,2.326773098231389,Pedestrian Zone,14,8.75,0.0,0.0,0,Rue Saillard,pedestrian_zones
+48.84547349033735,2.380248344832081,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.84981263395888,2.380876639907737,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.83745162164146,2.374226327231252,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.86814109065336,2.3885253175784897,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue des Amandiers,pedestrian_zones
+48.84039514553056,2.3277615221860204,Pedestrian Zone,14,8.75,0.0,0.0,0,Rue Huygens,pedestrian_zones
+48.836936885555225,2.316736743392797,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.876355129241645,2.374415227009832,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.82544873765207,2.3276933453049704,Pedestrian Zone,14,8.75,0.0,0.0,0,Rue Prisse d’Avennes,pedestrian_zones
+48.876939635831896,2.3640955809567714,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.87781604724564,2.366668718828255,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.86715873200232,2.2701702824117174,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.85272037942158,2.3400537252039766,Pedestrian Zone,6,3.15,0.0,0.0,0,0,pedestrian_zones
+48.87255911895028,2.3633582077028583,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.87398514747876,2.3764838312606305,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.87182167569395,2.291031176274916,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.86325175064589,2.3430669246419145,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,,pedestrian_zones
+48.82937667940619,2.3683550096480523,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.88298203639607,2.289892402230602,Pedestrian Zone,17,9.1,0.0,0.0,0,Rue Roger Bacon,pedestrian_zones
+48.8917874891764,2.372533739343221,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.85308192902982,2.3485828597951026,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.88912036624416,2.355871929640132,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Emile Duployé,pedestrian_zones
+48.85485349827243,2.408971993209384,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.826043747892605,2.420045384457315,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Route du Parc,pedestrian_zones
+48.879689314033776,2.3544025619979525,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.83757607426836,2.357608335988568,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Duméril,pedestrian_zones
+48.87267576238599,2.308068506295592,Pedestrian Zone,8,2.8,0.0,0.0,0,Rue Paul Baudry,pedestrian_zones
+48.83221720155606,2.3736245177505104,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Promenade Claude Levi-Strauss,pedestrian_zones
+48.88593486081316,2.30365609597421,Pedestrian Zone,17,9.1,0.0,0.0,0,,pedestrian_zones
+48.84791629865811,2.3423559228884474,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Cujas,pedestrian_zones
+48.8449208862692,2.349249359846975,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Mouffetard,pedestrian_zones
+48.87647049420204,2.3425214252523103,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Buffault,pedestrian_zones
+48.84103632140553,2.348637464759596,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Passage des Postes,pedestrian_zones
+48.83249678817355,2.3233422777022983,Pedestrian Zone,14,8.75,0.0,0.0,0,,pedestrian_zones
+48.85963354910911,2.352104424540882,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Beaubourg,pedestrian_zones
+48.83656199011558,2.3739741112557877,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Georges Balanchine,pedestrian_zones
+48.86404701350056,2.388139046134452,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.85610108026546,2.273216146157801,Pedestrian Zone,16,9.45,0.0,0.0,0,,pedestrian_zones
+48.852494727649,2.406276756078808,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.86623575632772,2.372048333842667,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.8329684673942,2.2943410406002056,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,Rue de la Saïda,pedestrian_zones
+48.89012958059058,2.325231341032912,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.87197484526841,2.3807933431747497,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue de Tourtille,pedestrian_zones
+48.87620490598273,2.3894945767879388,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.826303293239896,2.305594182942914,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.83498784937567,2.384670245559015,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Zac Bercy,pedestrian_zones
+48.88747885855191,2.3884797579115067,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.82097295950369,2.3686207500520826,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.87898663183045,2.3960804789847296,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.85743523575135,2.4107277049243105,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Blanchard,pedestrian_zones
+48.878445193889966,2.295811786375445,Pedestrian Zone,17,9.1,0.0,0.0,0,"Rue Bayen, rue Poncelet",pedestrian_zones
+48.836049911861714,2.3008528198037554,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.85178698314532,2.345014460600527,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.8684589690787,2.394507651312162,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.84937451635633,2.380321795092512,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Passage Driancourt,pedestrian_zones
+48.87871778481662,2.3516003017161244,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.87751087670844,2.340644055747788,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Milton,pedestrian_zones
+48.89028455929815,2.3546034815341157,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Marcadet,pedestrian_zones
+48.85243692821575,2.346101786867466,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.87670644906949,2.3956420867787087,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.85845517091363,2.2676133876097664,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.86000463432764,2.4061319504883176,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Riblette,pedestrian_zones
+48.826542393969646,2.3787244018605493,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Louise Bourgeois,pedestrian_zones
+48.84937525110456,2.352648004857713,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue de Poissy,pedestrian_zones
+48.86420816119449,2.400579346287839,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Place Emile Landrin,pedestrian_zones
+48.88665525202278,2.3527882103265823,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Cavé,pedestrian_zones
+48.85966436892905,2.345010018173232,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Rue des Bourdonnais,pedestrian_zones
+48.84249624009544,2.3443779684583923,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Erasme,pedestrian_zones
+48.83969533852379,2.368976008113389,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Dorothéa Lange,pedestrian_zones
+48.88364298964596,2.339790043598281,Pedestrian Zone,18,17.5,0.0,0.0,0,,pedestrian_zones
+48.84869618883334,2.3944777300313413,Pedestrian Zone,11,10.85,0.0,0.0,0,Place de la Nation,pedestrian_zones
+48.84735733217549,2.3715642322670023,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.86465244231788,2.363397827238631,Pedestrian Zone,3,4.55,0.0,0.0,0,0,pedestrian_zones
+48.8730353537764,2.376810672551004,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.84262835598272,2.4148278612848197,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.868595426586616,2.343220399114707,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,0,pedestrian_zones
+48.83669778418194,2.3561174000225824,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.84567895462439,2.3883837813165365,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.86645035730905,2.340223482506812,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,0,pedestrian_zones
+48.86908293253553,2.404802052743185,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,,pedestrian_zones
+48.8596789581356,2.343080022437805,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.83554627616261,2.386334899366497,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Zac Bercy,pedestrian_zones
+48.873249983053135,2.3898684188346406,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.88924968392238,2.3753979947621837,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.8862464964303,2.3557449674826967,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Saint-Mathieu,pedestrian_zones
+48.865536504350366,2.3935685279706878,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.85466977642484,2.4008722693480604,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.86785421090556,2.392575627075692,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.85564966766138,2.274958121695994,Pedestrian Zone,16,9.45,0.0,0.0,0,,pedestrian_zones
+48.83461408094757,2.3966303989381994,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,,pedestrian_zones
+48.85885955163046,2.358140333606243,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.86480298102804,2.3666261428354605,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue Amelot entre rue de Crussol et rue Jean-Pierre Timbaud,pedestrian_zones
+48.86154262913724,2.378374928067911,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue du Général Renault,pedestrian_zones
+48.82852106021311,2.361138854873127,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Charles Moureu,pedestrian_zones
+48.85173020020864,2.3447261370500154,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Boutebrie,pedestrian_zones
+48.83235462843851,2.3714536031760263,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Passage Chanvin,pedestrian_zones
+48.85671160078308,2.293823366117251,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.87064365669124,2.37762017546425,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue de la Présentation,pedestrian_zones
+48.87779706297631,2.3985260349182207,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,"Rue Emile Desvaux, rue Paul de Kock",pedestrian_zones
+48.831957692902456,2.372523796261184,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Halle Freyssinet,pedestrian_zones
+48.87934217367187,2.352548784035208,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,Rue de Belzunce,pedestrian_zones
+48.855518515150855,2.3573663335934016,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue Geoffroy l'Asnier,pedestrian_zones
+48.87948222781722,2.3456212802100707,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Turgot,pedestrian_zones
+48.83482813058449,2.315521596593804,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.88976432457303,2.3085554505979093,Pedestrian Zone,17,9.1,0.0,0.0,0,Rue Christine de Pisan,pedestrian_zones
+48.84073768116594,2.348812721505345,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Square Vermenouze,pedestrian_zones
+48.87550403878669,2.3625642885313214,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.84103353014547,2.388711055921602,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.85277562992125,2.3531799690685524,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.86140228087253,2.324498012987219,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.82560903877968,2.348289430538673,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.88777616492016,2.381130489367255,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.858453077818055,2.3500601934518204,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Beaubourg,pedestrian_zones
+48.86773990083439,2.404061616395701,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.864758767031006,2.281510967727568,Pedestrian Zone,16,9.45,0.0,0.0,0,,pedestrian_zones
+48.880877079386906,2.333365194006904,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Chaptal,pedestrian_zones
+48.847567921832,2.408028884056786,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.87380400441048,2.372664489936628,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,,pedestrian_zones
+48.86503202270615,2.3910816231105017,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.88893094086652,2.308002006271189,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.8890425258226,2.355158412359533,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.85810829743073,2.3693217614887327,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.88242132858708,2.38195889550375,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.895750811104136,2.344446779523651,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Championnet,pedestrian_zones
+48.87564624722828,2.3434157615513924,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,0,pedestrian_zones
+48.89588002053309,2.3656097781850125,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.86742777678493,2.377545092729709,Pedestrian Zone,11,10.85,0.0,0.0,0,Impasse de la Baleine,pedestrian_zones
+48.83015018727048,2.354230963155741,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.8642780511315,2.371262640498405,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue Oberkampf,pedestrian_zones
+48.868015363305055,2.347665643930989,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,0,pedestrian_zones
+48.868006887249805,2.279162541318166,Pedestrian Zone,16,9.45,0.0,0.0,0,Villa Victor Hugo,pedestrian_zones
+48.884119008261735,2.3865525142884967,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Place Francis Poulenc,pedestrian_zones
+48.85487075488729,2.3618529084573683,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.84030023403627,2.2875268689494965,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,,pedestrian_zones
+48.84274304110485,2.284001277982828,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.89087109306498,2.345599552327792,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Ferdinand Flocon,pedestrian_zones
+48.85151118472906,2.3575574756402493,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue Saint-Louis en l'Ile,pedestrian_zones
+48.883902051187725,2.3330479501556725,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Pujet,pedestrian_zones
+48.895917299247245,2.374144250209799,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.85018881970641,2.382819218448234,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.86756213350531,2.331568860575142,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.84206823586082,2.2849470027379644,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.86890741233186,2.396560256416056,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.84474323380015,2.386813449168109,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.87898823193329,2.3229757287313806,Pedestrian Zone,8,2.8,0.0,0.0,0,Rue de Madrid,pedestrian_zones
+48.88379888479174,2.3435838086259464,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.85643808166251,2.4021584614446616,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.85808864858323,2.359142466128598,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.834470351851394,2.386839801124097,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Zac Bercy,pedestrian_zones
+48.83149062798242,2.3712885260248595,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.8703216928694,2.3411457324906007,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,0,pedestrian_zones
+48.83826476814087,2.2785488681107604,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.84493061551826,2.2871844567937134,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.85617915786256,2.3882215063230574,Pedestrian Zone,11,10.85,0.0,0.0,0,Passage Alexandrine,pedestrian_zones
+48.85041286466559,2.381930989630942,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue du Faubourg Saint-Antoine,pedestrian_zones
+48.84939545297671,2.3517229135035014,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue de Pontoise,pedestrian_zones
+48.84148732957899,2.3495808880598554,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Jean Calvin,pedestrian_zones
+48.86508663571707,2.365288445687805,Pedestrian Zone,3,4.55,0.0,0.0,0,Rue Charlot,pedestrian_zones
+48.84055360658062,2.350527272424225,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue de l'Arbalète,pedestrian_zones
+48.85580561225616,2.3817001337693,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue François de Neuchâteau,pedestrian_zones
+48.8598740863111,2.264351713253218,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.8820115825337,2.3108893093308405,Pedestrian Zone,17,9.1,0.0,0.0,0,Général Catroux,pedestrian_zones
+48.83938698796511,2.3498540260414043,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Edouard Quénu,pedestrian_zones
+48.84017939275569,2.406612999725216,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,"Rue Marie Laurencin, rue André Derain",pedestrian_zones
+48.85323672492622,2.260790008384957,Pedestrian Zone,16,9.45,0.0,0.0,0,Avenue du Maréchal Lyautey,pedestrian_zones
+48.86648151666581,2.3314955489718687,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.8629124950434,2.3732392262667488,Pedestrian Zone,11,10.85,0.0,0.0,0,Passage Beslay,pedestrian_zones
+48.88629529074571,2.340452917190892,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.82583395393423,2.3085276796513883,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.84173701654294,2.302818592203673,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,Place du Général Beuret,pedestrian_zones
+48.87112658862849,2.383112156328062,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.86511757779153,2.395233828338291,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Place Martin Nadaud,pedestrian_zones
+48.83170006111159,2.363329575318708,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Yéo Thomas,pedestrian_zones
+48.85603218429082,2.357137810209917,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.858468324297306,2.405249714315973,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.8491866651375,2.293568777386684,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.849370233538096,2.3951499903875626,Pedestrian Zone,11,10.85,0.0,0.0,0,Place de la Nation,pedestrian_zones
+48.85239806377087,2.343336724988464,Pedestrian Zone,6,3.15,0.0,0.0,0,0,pedestrian_zones
+48.87201990978752,2.362564704339646,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.85277760560211,2.3435836434951764,Pedestrian Zone,6,3.15,0.0,0.0,0,0,pedestrian_zones
+48.857284965285416,2.3574742021832624,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.88522757894175,2.3774496819468576,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.88682981190105,2.355440963639303,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Cavé,pedestrian_zones
+48.87840456347424,2.3063020150674327,Pedestrian Zone,8,2.8,0.0,0.0,0,Avenue Van Dyck,pedestrian_zones
+48.8490558915632,2.3763991955253747,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,,pedestrian_zones
+48.86772258813567,2.40352224569257,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Bretonneau,pedestrian_zones
+48.84371777498219,2.349472671298576,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Saint-Médard,pedestrian_zones
+48.896477060610245,2.327233339258497,Pedestrian Zone,17,9.1,0.0,0.0,0,Passage Saint-Ange,pedestrian_zones
+48.83021438548959,2.316589619215006,Pedestrian Zone,14,8.75,0.0,0.0,0,Rue Jacquier,pedestrian_zones
+48.86856531455904,2.399195225193547,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Hélène Jakubowicz,pedestrian_zones
+48.82764434791618,2.3532446818567068,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.8578066693781,2.3468956804284,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Place du Châtelet,pedestrian_zones
+48.87664281234861,2.3387817869843297,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Bourdaloue,pedestrian_zones
+48.85522138694284,2.409630003642794,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue des Réglises,pedestrian_zones
+48.869439619628416,2.363148234779761,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.85219944937635,2.33695105465571,Pedestrian Zone,6,3.15,0.0,0.0,0,0,pedestrian_zones
+48.8906377511556,2.362662329977969,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue de la Guadeloupe,pedestrian_zones
+48.86708096250506,2.4052531332666,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue du Capitaine Marchal,pedestrian_zones
+48.84273925055481,2.280020150121519,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,,pedestrian_zones
+48.85226278188157,2.381582172290116,Pedestrian Zone,11,10.85,0.0,0.0,0,Esplanade Renée Lebas,pedestrian_zones
+48.87226477521988,2.361842997278013,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.84163177921969,2.29865004901008,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.86151227603269,2.3534170717695595,Pedestrian Zone,3,4.55,0.0,0.0,0,Quartier de l'Horloge,pedestrian_zones
+48.87896306981138,2.385117357439932,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.871408410580734,2.3536485551495985,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.82997237215376,2.3230301731009955,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.86325396783188,2.31735022632558,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.84858581736346,2.34675787122746,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.88797989193691,2.32262308538838,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.85853861013142,2.349424748178036,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Beaubourg,pedestrian_zones
+48.86346040015585,2.3357577418482056,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.83614491140499,2.3465489539453364,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Saint-Hippolyte,pedestrian_zones
+48.87136066855542,2.409508782214771,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Pierre Foncin,pedestrian_zones
+48.84466321509799,2.277910150070873,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.8420279787461,2.2640321123401703,Pedestrian Zone,16,9.45,0.0,0.0,0,,pedestrian_zones
+48.88986110498475,2.363299300459365,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.85821502905702,2.380285981566314,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.852970336947465,2.345612626900196,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.85186468125633,2.358633846155284,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue Poulletier,pedestrian_zones
+48.82977408894952,2.369206308210308,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.88856496386826,2.339923278863338,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.83701174333961,2.393463370677294,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Rue de la Brèche aux loups,pedestrian_zones
+48.867415331073104,2.4027746789693896,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Bretonneau,pedestrian_zones
+48.86975790394338,2.402533364918157,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Henri Poincaré,pedestrian_zones
+48.83607591312773,2.374248675366803,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,"Place Jean Vilar, rue Fernand Braudel, Abel Gance, Jean Giono, Valéry Larbaud",pedestrian_zones
+48.84109709104427,2.349716852077572,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Passage des Patriarches,pedestrian_zones
+48.87126440063105,2.334889111812996,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue du Helder,pedestrian_zones
+48.832268680731936,2.3472738159969952,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Corvisart,pedestrian_zones
+48.83213190596954,2.326856976384326,Pedestrian Zone,14,8.75,0.0,0.0,0,Allée Françoise d'Eaubonne,pedestrian_zones
+48.89430719496711,2.32457029716115,Pedestrian Zone,17,9.1,0.0,0.0,0,Villa Sainte-Croix,pedestrian_zones
+48.83961639312016,2.2980774621537123,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,,pedestrian_zones
+48.840811739112894,2.389707537057847,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,,pedestrian_zones
+48.86089813248383,2.342404494345008,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.898712914165706,2.381617847420708,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.874551362613566,2.403271918082664,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue des Tourelles,pedestrian_zones
+48.87724983271464,2.395023890688749,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Place des Fêtes,pedestrian_zones
+48.89569178286456,2.365210511937213,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.85786067347269,2.35788338563324,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.89002800969303,2.340303731419439,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.88263259970302,2.3169798680962645,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.85849893881948,2.3428444513585345,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Rue du Pont Neuf,pedestrian_zones
+48.84296567505498,2.3884562964604745,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,,pedestrian_zones
+48.84383314888588,2.3835498667727237,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.87802069702426,2.3694563579633434,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.85207874165898,2.3467324769274875,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.848929667400846,2.3765478410301952,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.85879648193188,2.3454429336099603,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.834283567082856,2.314801128108225,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.82590566181143,2.3553213049378634,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Damesme,pedestrian_zones
+48.87094955070581,2.355387822570625,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.88756274637676,2.35018636691247,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.86692044876864,2.353133312999513,Pedestrian Zone,3,4.55,0.0,0.0,0,0,pedestrian_zones
+48.858185241719305,2.400288215997965,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.858684513242096,2.369054220865307,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.8700731067478,2.3523823153041383,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.87191656677446,2.380653637730296,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,"Rue de Tourtille, rue Lesage",pedestrian_zones
+48.88569407006494,2.378482659162995,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,,pedestrian_zones
+48.871460497714274,2.357947828213484,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,,pedestrian_zones
+48.84903544895299,2.3136849292861386,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,Rue Eblé,pedestrian_zones
+48.88553770269932,2.3539477689899826,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Saint-Luc,pedestrian_zones
+48.86907590325348,2.402253122872569,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue du Docteur Paquelin,pedestrian_zones
+48.88406819664977,2.3874765216479656,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.84246765304718,2.2777552322832317,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.88114123429592,2.378661918062333,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Rue Edouard Pailleron,pedestrian_zones
+48.88783080644718,2.3981849634826315,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Rue des Cheminets,pedestrian_zones
+48.8626508654223,2.3754729598341044,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.88826032129053,2.3420084917095565,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue du Mont Cenis,pedestrian_zones
+48.87568262385315,2.328410576532949,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,0,pedestrian_zones
+48.86127130431253,2.363085935780408,Pedestrian Zone,3,4.55,0.0,0.0,0,0,pedestrian_zones
+48.87176346576985,2.3982948792032848,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Taclet,pedestrian_zones
+48.832425214594885,2.3588985566182257,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,,pedestrian_zones
+48.85904110375876,2.3688904950780483,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.83815067127636,2.312976091221897,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.84495274533822,2.378408104419929,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Zac Chalon,pedestrian_zones
+48.88897548218203,2.3250924609875865,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.84899070081673,2.376947263888045,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Rue Emilio Castelar,pedestrian_zones
+48.82171431021495,2.350515117866102,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,"Rue Madeleine Brès, rue Augustin Mouchot",pedestrian_zones
+48.84188649559584,2.2830575712914243,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,Allée Irène Némirovsky,pedestrian_zones
+48.86280254457829,2.3015190911171115,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.85760355468923,2.3797286305434437,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.8997404784765,2.376460664213587,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Rue Emile Bollaert,pedestrian_zones
+48.84930867741923,2.361691439215679,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Berges de Seine Rive droite (circulation des véhicules terrestres interdite),pedestrian_zones
+48.88055271717461,2.371359396269913,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,,pedestrian_zones
+48.85108843213936,2.348104203246584,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.85089665479236,2.287708792159625,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,Rue Schutzenberger,pedestrian_zones
+48.88599959735906,2.379560278310457,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,,pedestrian_zones
+48.880659480820725,2.373022692859496,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,,pedestrian_zones
+48.85472929250603,2.355072235714847,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Mairie du 4ème,pedestrian_zones
+48.83223329019997,2.378800872903276,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Choderlos de Laclos,pedestrian_zones
+48.89181690277736,2.334933239632319,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Vauvenargues,pedestrian_zones
+48.86570939513598,2.369536582183643,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue Jean-Pierre Timbaud,pedestrian_zones
+48.83720898627327,2.3189865622284827,Pedestrian Zone,14,8.75,0.0,0.0,0,Place de Catalogne et rue du Château,pedestrian_zones
+48.8566649819494,2.307062223204741,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,Rue du Champ de Mars,pedestrian_zones
+48.89119052698877,2.3613279109125638,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.87372595588306,2.328467627190494,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,0,pedestrian_zones
+48.88610175305276,2.3891826340193765,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.897132301483886,2.32717447759491,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.86761625638258,2.377376244665147,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.89699203411456,2.3356505561786545,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Paul Abadie,pedestrian_zones
+48.86998655192762,2.334909403565717,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,Rue de la Michodière,pedestrian_zones
+48.84239429514388,2.3851292021851087,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Rue Louise Hervieu,pedestrian_zones
+48.85946104690711,2.369889411674136,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue Nicolas Appert,pedestrian_zones
+48.879602072292165,2.395572980964201,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.86424188947779,2.361856089997284,Pedestrian Zone,3,4.55,0.0,0.0,0,Rue Eugène Spuller,pedestrian_zones
+48.84528509759512,2.309688571290242,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.87959711677978,2.3951356148795098,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.84142364019418,2.3497082582560083,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue de l'Epée de Bois,pedestrian_zones
+48.85290343690131,2.268553803710974,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.84881503769841,2.342331207046053,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.88436892139978,2.390473369936024,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.839366946933445,2.346384101842109,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,,pedestrian_zones
+48.84948293989626,2.395606186459874,Pedestrian Zone,11,10.85,0.0,0.0,0,Place de la Nation,pedestrian_zones
+48.86557331171191,2.336749047638119,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.88978904406084,2.380078257436105,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.86337184409576,2.346463117324216,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Les Halles,pedestrian_zones
+48.84781314975151,2.4066397153865124,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.859388916711744,2.3529583778824685,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue Saint-Merri,pedestrian_zones
+48.8823313929036,2.3631084473728188,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,Rue Louis Blanc et Philippe de Girard,pedestrian_zones
+48.8414258663984,2.324916150047095,Pedestrian Zone,14,8.75,0.0,0.0,0,Rue du Montparnasse (selon horaires),pedestrian_zones
+48.83982772929301,2.4320630953453537,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,avenue du Polygone,pedestrian_zones
+48.835179795385166,2.3694275657718085,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Halle Freyssinet,pedestrian_zones
+48.84141983541181,2.349915505003933,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue du Père Teilhard de Chardin,pedestrian_zones
+48.84060278562944,2.352613006273289,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue de Mirbel,pedestrian_zones
+48.8838792999576,2.386385395744637,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.82409018942926,2.3636259128878985,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.87335798931498,2.3584457346092544,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.85395858814269,2.362036438080305,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.854560913738354,2.403130148083696,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Passage de la Providence,pedestrian_zones
+48.835763453014856,2.379118722277841,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.85164490506992,2.2775175146944115,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.87327119252447,2.40133105357164,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Passage Gambetta,pedestrian_zones
+48.8897660040194,2.353294374835575,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.8531795546076,2.3370646542910354,Pedestrian Zone,6,3.15,0.0,0.0,0,Rue de Seine,pedestrian_zones
+48.86030155983295,2.3247664027733577,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,Rue de la Légion d'Honneur,pedestrian_zones
+48.88814964959524,2.2898068048230558,Pedestrian Zone,17,9.1,0.0,0.0,0,Rue Louis Vierne,pedestrian_zones
+48.85135385443044,2.340218048962769,Pedestrian Zone,6,3.15,0.0,0.0,0,0,pedestrian_zones
+48.87066122012215,2.337899579135461,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,0,pedestrian_zones
+48.89466692069624,2.353036983740296,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.86044960353091,2.3454343240409607,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Impasse des Bourdonnais,pedestrian_zones
+48.88668093820117,2.312184408085443,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.88100535227964,2.3287129855027,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue du Cardinal Mercier,pedestrian_zones
+48.83996147110854,2.3795062841255104,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.83601420025178,2.3501279232453847,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.86315949188303,2.3131923866888915,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.82840884217807,2.367582798577881,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.88830817617417,2.381947726911255,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Passage de Thionville,pedestrian_zones
+48.89460604661138,2.360572446382225,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.86346837160571,2.3490211374326453,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Les Halles,pedestrian_zones
+48.86363411297412,2.3574858390981186,Pedestrian Zone,3,4.55,0.0,0.0,0,0,pedestrian_zones
+48.869415026978665,2.356701722720435,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.86475705845461,2.355787005551089,Pedestrian Zone,3,4.55,0.0,0.0,0,0,pedestrian_zones
+48.87300750329819,2.3478115484719173,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,0,pedestrian_zones
+48.88954900381561,2.3781611200264186,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.888304971824034,2.3918733400380017,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.86828287501028,2.337413014582232,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,Rue de Louvois,pedestrian_zones
+48.85816489723808,2.3560259882511976,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue de Moussy,pedestrian_zones
+48.86666591247295,2.35110810150838,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,,pedestrian_zones
+48.85928925490618,2.341817660903187,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Rue de l'Arbre Sec,pedestrian_zones
+48.83855903298443,2.329613547981989,Pedestrian Zone,14,8.75,0.0,0.0,0,Rue Emilie Richard,pedestrian_zones
+48.875446063094735,2.3419180259920283,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Buffault,pedestrian_zones
+48.84581653312433,2.385624602258084,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.8340441163372,2.387096721791864,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Zac Bercy,pedestrian_zones
+48.841801928494775,2.384569425830728,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Rue Simone Iff,pedestrian_zones
+48.81946424633067,2.358619702289931,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue du Colonel Dominé,pedestrian_zones
+48.85009508119207,2.2800776941145195,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.8847772055374,2.3742906179341228,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Rue Henri Noguères,pedestrian_zones
+48.83442986304351,2.3702685642975854,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Halle Freyssinet,pedestrian_zones
+48.86208854565831,2.3426125577533248,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.87414852310231,2.3375489627654717,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,0,pedestrian_zones
+48.86307892891098,2.3095602760099028,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.828180642018914,2.367188578108648,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Baptiste Renard,pedestrian_zones
+48.87609350381512,2.363661300883513,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.86262526750737,2.3395256314555084,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,,pedestrian_zones
+48.88307987696437,2.329430785639188,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,0,pedestrian_zones
+48.86192994877617,2.378221331577972,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue du Général Blaise,pedestrian_zones
+48.89870704813102,2.37544365073468,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.85725710468645,2.306255833773636,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.887195442788375,2.3121206076888,Pedestrian Zone,17,9.1,0.0,0.0,0,,pedestrian_zones
+48.89614809640707,2.3317981705737973,Pedestrian Zone,18,17.5,0.0,0.0,0,Square Leibniz,pedestrian_zones
+48.849556142535086,2.268243795309006,Pedestrian Zone,16,9.45,0.0,0.0,0,Rue des Perchamps,pedestrian_zones
+48.82969248845588,2.415166745730953,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Route de Ceinture du Lac Daumesnil et route des Iles,pedestrian_zones
+48.86385016538644,2.398800255482567,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue des Rondonneaux et rue Emile Landrin,pedestrian_zones
+48.844553520319295,2.2773873827187248,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.844623020660514,2.303805420013462,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.87959207878651,2.394700038765798,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.88887431444599,2.3207027558940063,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.82775777404996,2.311405888540253,Pedestrian Zone,14,8.75,0.0,0.0,0,Rue des Mariniers,pedestrian_zones
+48.84257759411212,2.386152897437911,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Zone Reuilly,pedestrian_zones
+48.85212457942506,2.34666483814574,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.87952709683724,2.3942693773079453,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.83413240277143,2.329265079824212,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.85121785057736,2.3507858348881587,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.860099647258494,2.4063173716009265,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.87308074524053,2.340968915738779,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Rossini,pedestrian_zones
+48.865284105254894,2.387923596945427,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.8659920574765,2.3913156441148704,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.83895780344885,2.2653500328604577,Pedestrian Zone,16,9.45,0.0,0.0,0,Boulevard Murat,pedestrian_zones
+48.86577015234688,2.411718990424642,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Le Vau,pedestrian_zones
+48.84309429596095,2.349511400398806,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,rue du Pot de Fer,pedestrian_zones
+48.87686986428193,2.3215017870394465,Pedestrian Zone,8,2.8,0.0,0.0,0,Rue de la Bienfaisance,pedestrian_zones
+48.85721939560725,2.3616685705881046,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue Pavée,pedestrian_zones
+48.88279645325674,2.3279263135369623,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue de Bruxelles,pedestrian_zones
+48.85742329324389,2.281589095378611,Pedestrian Zone,16,9.45,0.0,0.0,0,Rue Chernoviz,pedestrian_zones
+48.88513705611216,2.2928267066348407,Pedestrian Zone,17,9.1,0.0,0.0,0,Villa Berthier,pedestrian_zones
+48.84314660713673,2.349698119926672,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Ortolan,pedestrian_zones
+48.835229510594495,2.316200268190057,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.85454145175209,2.3552098752834185,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue de l'Hôtel de Ville,pedestrian_zones
+48.83783785362349,2.370221841133896,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Bérénice Abbott,pedestrian_zones
+48.87739889644017,2.346573942497946,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue Mayran et Rochambeau,pedestrian_zones
+48.824020863699225,2.368000613857056,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.85105387521666,2.347996576109168,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.87272615578711,2.3854758887814085,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue du Père Julien Dhuit,pedestrian_zones
+48.86850458069402,2.350337286917691,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,0,pedestrian_zones
+48.86787949763227,2.337186039399283,Pedestrian Zone,2,42.31767764298094,0.0,0.0,0,0,pedestrian_zones
+48.883618049000624,2.3139734027059182,Pedestrian Zone,17,9.1,0.0,0.0,0,Zone Lévis,pedestrian_zones
+48.863262028492976,2.3378521412299933,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,0,pedestrian_zones
+48.86660893154626,2.389369792253333,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.86600999324852,2.3959074026046774,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.8496793519616,2.2827603521918927,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.87558775312448,2.383254956678824,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.86274319205921,2.319539267299812,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.83454128661419,2.3860988388875417,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Zac Bercy,pedestrian_zones
+48.882148710868194,2.393504669095162,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.85892512826587,2.4047544290108323,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.84836073735074,2.3509662516080345,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Saint-Victor,pedestrian_zones
+48.83374953853437,2.3192114627936813,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.89016062085668,2.377459816992548,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.8962159860316,2.346466693368654,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.879459873016046,2.3938422513468023,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.8689739676684,2.3859270326677757,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue de l'Elysée Ménilmontant,pedestrian_zones
+48.883039319251296,2.3241208158458275,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.88585410945791,2.3806649475953967,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.84097694245342,2.3937997585463706,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Allée Vivaldi,pedestrian_zones
+48.87693172566189,2.4019644647532354,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Passage du Montenegro,pedestrian_zones
+48.85235144700928,2.3638274352685915,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue du Petit Musc,pedestrian_zones
+48.87291776648843,2.3579800978370904,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.81882051118185,2.358260354901254,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue du Docteur Bourneville,pedestrian_zones
+48.84169409276329,2.262585347835049,Pedestrian Zone,16,9.45,0.0,0.0,0,Rue Boileau,pedestrian_zones
+48.81732259697469,2.34756733842518,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Francis de Miomandre,pedestrian_zones
+48.84392167136898,2.3869836998935643,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.89253287007793,2.3595999563581627,Pedestrian Zone,18,17.5,0.0,0.0,0,Impasse de la Chapelle,pedestrian_zones
+48.84435875414668,2.4116224976233145,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,,pedestrian_zones
+48.85423091353337,2.36356766433611,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,,pedestrian_zones
+48.83312479850586,2.414108762455342,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,,pedestrian_zones
+48.85072566193305,2.297099470260386,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,Place du Cardinal Amette,pedestrian_zones
+48.87770635543091,2.2903521036343144,Pedestrian Zone,17,9.1,0.0,0.0,0,Rue du Colonell Moll,pedestrian_zones
+48.89115313654511,2.344217587283216,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Hermel,pedestrian_zones
+48.86814532732492,2.3979904369974774,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Villiers de l'Isle Adam,pedestrian_zones
+48.8776926404817,2.358125674730346,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,Rue d'Alsace,pedestrian_zones
+48.8567778487834,2.4000356263945344,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue de la Réunion,pedestrian_zones
+48.86812146628677,2.40298029200426,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue du Surmelin,pedestrian_zones
+48.85920937347835,2.362191124005036,Pedestrian Zone,3,4.55,0.0,0.0,0,0,pedestrian_zones
+48.85077788060565,2.3337545774362773,Pedestrian Zone,6,3.15,0.0,0.0,0,0,pedestrian_zones
+48.85029502428767,2.280363567987848,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.83203710149342,2.377654132571404,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.884446140426206,2.338231992974532,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.88249436938397,2.3749341156554697,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,Rue Lally-Tollendal,pedestrian_zones
+48.87716238778226,2.3269675454601715,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,,pedestrian_zones
+48.8643713963213,2.40154300154122,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue de la Cour des Noues,pedestrian_zones
+48.855891782108586,2.347379347138797,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.85009937939998,2.381375116121391,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.836025175771454,2.379339888173466,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.86326182611714,2.352599655787891,Pedestrian Zone,3,4.55,0.0,0.0,0,Rue du Grenier Saint-Lazare,pedestrian_zones
+48.860573739187856,2.345968821988885,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,,pedestrian_zones
+48.86533941766777,2.362948116582389,Pedestrian Zone,3,4.55,0.0,0.0,0,Rue de la Petite Corderie,pedestrian_zones
+48.85905783765866,2.33795838026645,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Pont des Arts,pedestrian_zones
+48.84591633022787,2.3777832602455,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Rue Guillaumot,pedestrian_zones
+48.82756054094665,2.332341670875639,Pedestrian Zone,14,8.75,0.0,0.0,0,Rue Sarriette,pedestrian_zones
+48.87506274220405,2.338488593255941,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue de la Victoire,pedestrian_zones
+48.87514070842678,2.339661538866337,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue de la Victoire,pedestrian_zones
+48.892005382712846,2.32615195268314,Pedestrian Zone,17,9.1,0.0,0.0,0,,pedestrian_zones
+48.857577828,2.401759546115456,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue de Fontarabie,pedestrian_zones
+48.8198068196504,2.359685525796449,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Allée Marc Chagall,pedestrian_zones
+48.896132901258966,2.346882395909173,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.88919048392235,2.317409934223784,Pedestrian Zone,17,9.1,0.0,0.0,0,0,pedestrian_zones
+48.853553650856085,2.366658443613991,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue Saint-Antoine (contre-allée),pedestrian_zones
+48.86555668283959,2.3988652815657248,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue du Cambodge,pedestrian_zones
+48.85398644599714,2.361018660882844,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue Charlemagne et rue du Fauconnier,pedestrian_zones
+48.85726514012729,2.27827856772149,Pedestrian Zone,16,9.45,0.0,0.0,0,0,pedestrian_zones
+48.853003425891046,2.348891958351216,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.87824088601036,2.3865476169012023,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.85549615744885,2.401886687529129,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.86910589452359,2.304653009075368,Pedestrian Zone,8,2.8,0.0,0.0,0,0,pedestrian_zones
+48.84162803571711,2.276977270521742,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.86617926073959,2.3949915556809094,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.8733824458988,2.330984224562305,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue de Mogador,pedestrian_zones
+48.85793702736709,2.318773092879438,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,Rue de Champagny,pedestrian_zones
+48.83209416957233,2.355221784804156,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,0,pedestrian_zones
+48.87712740192693,2.363429997258613,Pedestrian Zone,10,26.80534865500053,0.0,0.0,0,0,pedestrian_zones
+48.851909403614165,2.344221774028687,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.855226038713006,2.3629267547711765,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.85780994913237,2.344511469428651,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Berges de Seine Rive droite (circulation des véhicules terrestres interdite),pedestrian_zones
+48.86710223024283,2.4108805170913183,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue Le Vau,pedestrian_zones
+48.83102374430091,2.374656501102613,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Promenade Claude Levi-Strauss et Place Jean-Michel Basquiat,pedestrian_zones
+48.88884522775526,2.3234867963337376,Pedestrian Zone,17,9.1,0.0,0.0,0,,pedestrian_zones
+48.885614518909065,2.33839739757071,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Androuet,pedestrian_zones
+48.85925563673644,2.3997719266531887,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Rue de Lesseps,pedestrian_zones
+48.85870930031871,2.342350513200794,Pedestrian Zone,1,35.37696083724355,0.0,0.0,0,Rue de la Monnaie,pedestrian_zones
+48.86995959589688,2.3790164266994904,Pedestrian Zone,11,10.85,0.0,0.0,0,Rue de la Fontaine au Roi,pedestrian_zones
+48.87850596724512,2.3416990541866505,Pedestrian Zone,9,26.321794611334404,0.0,0.0,0,Rue de l'Agent Bailly,pedestrian_zones
+48.835531121091215,2.317965284594693,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.85106477724698,2.379770559736985,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.85953172519493,2.369285478743918,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.85890585574796,2.319391964221459,Pedestrian Zone,7,8.683479206840584,0.0,0.0,0,0,pedestrian_zones
+48.8673338160263,2.320839902388188,Pedestrian Zone,8,2.8,0.0,0.0,0,0,pedestrian_zones
+48.85532879779434,2.3328743147724205,Pedestrian Zone,6,3.15,0.0,0.0,0,0,pedestrian_zones
+48.83450995355401,2.3212796769522086,Pedestrian Zone,14,8.75,0.0,0.0,0,0,pedestrian_zones
+48.85975414657831,2.3528228059802103,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue Pierre au Lard,pedestrian_zones
+48.86046227291666,2.361817688994699,Pedestrian Zone,3,4.55,0.0,0.0,0,0,pedestrian_zones
+48.84784064191518,2.380457227996427,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,0,pedestrian_zones
+48.8889300920146,2.394486758606888,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.89328220583438,2.342720550307123,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.88622889188808,2.355541384852057,Pedestrian Zone,18,17.5,0.0,0.0,0,0,pedestrian_zones
+48.85375619967716,2.368192453186923,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,Rue de la Bastille,pedestrian_zones
+48.88010180201469,2.392862036745319,Pedestrian Zone,19,21.119978525920875,0.0,0.0,0,0,pedestrian_zones
+48.87159570094836,2.3834501815315474,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.87039634634745,2.3821432943301946,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,Place Alphone Allais,pedestrian_zones
+48.8556216955452,2.2878573462482703,Pedestrian Zone,15,12.168683158822544,0.0,0.0,0,0,pedestrian_zones
+48.87488531057037,2.3937729828364747,Pedestrian Zone,20,23.099999999999998,0.0,0.0,0,0,pedestrian_zones
+48.868574632634434,2.363230741432111,Pedestrian Zone,11,10.85,0.0,0.0,0,0,pedestrian_zones
+48.85128952087995,2.347729267610972,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,0,pedestrian_zones
+48.83712960908208,2.3705157081207315,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,Rue Gisèle Freund,pedestrian_zones
+48.88493147696728,2.33565897715969,Pedestrian Zone,18,17.5,0.0,0.0,0,Rue Audran,pedestrian_zones
+48.84006106673537,2.3498509178112967,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue Daubenton,pedestrian_zones
+48.83620984070786,2.40883700564126,Pedestrian Zone,12,19.29633220790896,0.0,0.0,0,Avenue Armand Rousseau,pedestrian_zones
+48.85638009253195,2.3557660038256816,Pedestrian Zone,4,46.63299906119314,0.0,0.0,0,0,pedestrian_zones
+48.83010941572258,2.3436590363774843,Pedestrian Zone,13,21.238392337992952,0.0,0.0,0,rue Soeur Catherine Marie,pedestrian_zones
+48.886729642471366,2.360931945653024,Pedestrian Zone,18,17.5,0.0,0.0,0,,pedestrian_zones
+48.85006785712447,2.346245804193275,Pedestrian Zone,5,17.629673951356285,0.0,0.0,0,Rue du Sommerard,pedestrian_zones
+48.856949,2.353837,High Traffic,,0.0,0.0,0.0,50046,Traffic Site 10023,traffic
+48.858273,2.349109,High Traffic,,0.0,0.0,0.0,69664,Traffic Site 10004,traffic
+48.858628,2.348208,High Traffic,,0.0,0.0,0.0,5636,Traffic Site 10030,traffic
+48.859617,2.344817,High Traffic,,0.0,0.0,0.0,66293,Traffic Site 10022,traffic
+48.86116,2.32415,High Traffic,,0.0,0.0,0.0,5396,Traffic Site 10088,traffic
+48.8714843,2.341831,High Traffic,,0.0,0.0,0.0,71913,Traffic Site 10029,traffic
+48.8714843,2.3418311,High Traffic,,0.0,0.0,0.0,21823,Traffic Site 10028,traffic
+48.875967,2.364635,High Traffic,,0.0,0.0,0.0,11932,Traffic Site 10020,traffic
+48.877338,2.365016,High Traffic,,0.0,0.0,0.0,19981,Traffic Site 10019,traffic
+48.883513,2.327263,High Traffic,,0.0,0.0,0.0,36921,Traffic Site 10015,traffic
