@@ -10,11 +10,11 @@ def extract_paris_data() -> Dict[str, List[Dict]]:
     base_url = "https://opendata.paris.fr/api/explore/v2.1/catalog/datasets"
     datasets = {
         'pedestrian_zones': 'aires-pietonnes',
-        'bike_counters': 'comptage-velo-donnees-compteurs', 
-        'advertising_panels': 'panneaux_d_affichage_associatifs'
+        'vehicule_counters': 'comptage-multimodal-comptages', 
+        'associative_panels': 'panneaux_d_affichage_associatifs'
     }
-    limit = 100  # API max per request
-    max_total_records = 10000  # API max total per dataset
+    limit = 100  
+    max_total_records = 10000 
     raw_data = {}
     
     for dataset_key, dataset_name in datasets.items():
